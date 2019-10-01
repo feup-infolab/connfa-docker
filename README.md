@@ -13,7 +13,7 @@ Derived from an original [Gist](https://gist.github.com/evelyne24/dc2a5ae271d264
 
 ### Go to installation folder
 
-`cd conffa-docker`
+`cd connfa-docker`
 
 ### Run the code you need
 
